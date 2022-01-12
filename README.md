@@ -13,6 +13,7 @@
 <div class="linguagens">
   <img align="center" alt="wilson-Flutter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="wilson-Dart" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="wilson-vsCode" height="60" width="60" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
 </div>
 
 ##
